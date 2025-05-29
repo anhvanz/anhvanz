@@ -4,13 +4,14 @@ import React from 'react';
 
 export default function CertPage() {
   const data = [
+    {
+      org: 'GG Accademy',
+      logo: 'https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-google-icon-logo-png-transparent-svg-vector-bie-supply-14.png',
+      certs: [
+        { name: 'GG CLoud', image: 'https://i.pinimg.com/736x/4a/1e/15/4a1e15c5b16cc95f284eaa297c6eb124.jpg' },
+      ],
+    }, 
     // {
-    //   org: 'AWS Accademy',
-    //   logo: '/images/cert/aws-accademy/aws-accademy-badge.png',
-    //   certs: [
-    //     { name: 'AWS Academy Cloud Foundations', image: '/images/cert/aws-accademy/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20231130-29-1bi8im_page-0001.jpg' },
-    //   ],
-    // }, {
     //   org: 'Udemy',
     //   logo: '/images/cert/udemy/udemy.png',
     //   certs: [
