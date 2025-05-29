@@ -92,19 +92,19 @@ export default function Home() {
                   <FiGithub />
                 </button>
               </a>
-              <a href="https://leetcode.com/tranhuudang" target="_blank">
+              <a href="https://leetcode.com/anhvanz" target="_blank">
                 <button className="bg-[var(--contact-bc)] dark:bg-[var(--contact-bc-dark)] text-[var(--contact-bc-dark)] dark:text-[var(--contact-bc)] px-3 py-1 rounded text-[18px] flex items-center gap-2">
                   <SiLeetcode />
                 </button>
               </a>
-              <a href="https://www.hackerrank.com/tranhuudang" target="_blank">
+              <a href="https://www.hackerrank.com/anhvanz" target="_blank">
                 <button className="bg-[var(--contact-bc)] dark:bg-[var(--contact-bc-dark)] text-[var(--contact-bc-dark)] dark:text-[var(--contact-bc)] px-3 py-1 rounded text-[18px] flex items-center gap-2">
                   <TbBrandHackerrank />
                 </button>
               </a>
             </div>
             <div className="flex gap-2">
-              <a href="https://www.linkedin.com/in/tranhuudang" target="_blank">
+              <a href="https://www.linkedin.com/in/anhvanz" target="_blank">
                 <button className="bg-[var(--contact-bc)] dark:bg-[var(--contact-bc-dark)] text-[var(--contact-bc-dark)] dark:text-[var(--contact-bc)] px-3 py-1 rounded text-[18px] flex items-center gap-2">
                   <LuLinkedin />
                 </button>
@@ -114,12 +114,12 @@ export default function Home() {
                   <FiYoutube />
                 </button>
               </a>
-              <a href="https://www.facebook.com/dangdeveloper/" target="_blank">
+              <a href="https://www.facebook.com//" target="_blank">
                 <button className="bg-[var(--contact-bc)] dark:bg-[var(--contact-bc-dark)] text-[var(--contact-bc-dark)] dark:text-[var(--contact-bc)] px-3 py-1 rounded text-[18px] flex items-center gap-2">
                   <LuFacebook />
                 </button>
               </a>
-              <a href="https://www.tiktok.com/@theanishtar" target="_blank">
+              <a href="https://www.tiktok.com/@" target="_blank">
                 <button className="bg-[var(--contact-bc)] dark:bg-[var(--contact-bc-dark)] text-[var(--contact-bc-dark)] dark:text-[var(--contact-bc)] px-3 py-1 rounded text-[18px] flex items-center gap-2">
                   <TbBrandTiktok />
                 </button>
@@ -132,10 +132,10 @@ export default function Home() {
       {/* About */}
       <div className={`fade-in-load scroll-fade ${isAboutVisible ? 'visible' : ''} space-y-4 mb-12`}>
         <p>
-          I’m a fullstack developer with a strong interest in building web applications that are both functional and user-friendly...
+          I'm Anh Vanz — a fullstack developer with a strong focus on JavaScript and TypeScript.
         </p>
         <p>
-          I’ve led and contributed to several real-world projects such as DESTINY, DAVITICKETS, DAVISY...
+          I’m passionate about building web applications that are not only functional but also intuitive and user-friendly. I’ve led and contributed to several real-world projects such as **DESTINY**, **DAVITICKETS**, and **DAVISY** — handling everything from frontend UX to backend architecture.
         </p>
         {/* <ul>
           <li className='flex'>BackEnd: <span className='mr-[10px]'></span> {renderSkillIcons(backendSkills)}</li>
@@ -145,7 +145,7 @@ export default function Home() {
           <li className='flex'>Others: <span className='mr-[10px]'></span>{renderSkillIcons(otherSkills)}</li>
         </ul> */}
         <p>
-          Connect with my Linkedin to discuss about work or my Github to share interesting knowledge ^^
+          Feel free to connect with me on [LinkedIn](#) to talk about work opportunities, or check out my [GitHub](#) for shared knowledge and side projects. Let's build something cool together! 😄
         </p>
         <div style={{ display: 'flex', alignItems: 'center', flexWrap: 'wrap', gap: '0.5rem', }}>
           <span style={{ flexBasis: '100%' }}>My skills:</span>
