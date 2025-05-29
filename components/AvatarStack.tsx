@@ -3,13 +3,13 @@ import React, { useState } from 'react';
 import { motion, useMotionValue, useTransform, AnimatePresence } from 'framer-motion';
 
 const avatars = [
-  '/images/profile/1.JPG',
-  '/images/profile/2.JPG',
-  '/images/profile/3.JPG',
-  '/images/profile/4.JPG',
-  '/images/profile/5.JPG',
-  '/images/profile/6.JPG',
-  '/images/profile/7.JPG',
+  'https://i.pinimg.com/736x/de/31/7e/de317e4adde5e9fda7bc6db91254ac68.jpg',
+  'https://avatars.githubusercontent.com/u/89678032?v=4',
+  'https://i.pinimg.com/736x/3f/e3/77/3fe377b1cf5e3a9db83b3f99962f6fe0.jpg',
+  'https://i.pinimg.com/736x/85/f8/bf/85f8bf2c85883f7fc80e2b87ea3528d9.jpg',
+  'https://i.pinimg.com/736x/e0/5f/ad/e05fadbfd0aaf82028da114502eda023.jpg',
+  'https://i.pinimg.com/736x/7e/d7/64/7ed764e320a33ca302aad89e9107ba6c.jpg',
+  'https://i.pinimg.com/736x/5b/1e/8a/5b1e8a5e05329969527ad760227eb3cd.jpg',
 ];
 
 export default function AvatarStack() {
