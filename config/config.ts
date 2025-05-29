@@ -1,6 +1,6 @@
 export const SITE_CONFIG = {
-  url: 'dangth.dev',
-  githubRepo: 'https://github.com/dangtranhuu/dangth',
+  url: 'anhvanz.vercel.app',
+  githubRepo: 'https://github.com/anhvanz/anhvanz',
   githubBranch: 'main', // Hoặc 'dev', 'next' tùy bạn
   postDir: 'content/posts',
   tutorialDir: 'content/tutorials',
@@ -19,6 +19,6 @@ export const GISCUS = {
 }
 
 export const GITHUB = {
-  username: "dangtranhuu",
+  username: "anhvanz",
   topic: "featured"
 }
