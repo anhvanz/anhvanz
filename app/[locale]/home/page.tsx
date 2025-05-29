@@ -109,7 +109,7 @@ export default function Home() {
                   <LuLinkedin />
                 </button>
               </a>
-              <a href="https://www.youtube.com/@devlands" target="_blank">
+              <a href="https://www.youtube.com/@" target="_blank">
                 <button className="bg-[var(--contact-bc)] dark:bg-[var(--contact-bc-dark)] text-[var(--contact-bc-dark)] dark:text-[var(--contact-bc)] px-3 py-1 rounded text-[18px] flex items-center gap-2">
                   <FiYoutube />
                 </button>
@@ -165,16 +165,16 @@ export default function Home() {
               {/* Avatar/logo */}
               <div className="left w-[70px]">
                 <img
-                  src="/images/exp/devlands.jpg"
+                  src="https://mms.businesswire.com/media/20241006502822/en/681209/5/FPT_Software_Doc.jpg"
                   className="w-[48px] h-[48px] object-cover rounded-md"
-                  alt="devlands"
+                  alt=""
                 />
               </div>
 
               {/* Content */}
               <div className="right">
                 <div className="top font-semibold text-[17px] flex items-center gap-1">
-                  Devlands
+                  FPT Software
                   <span className="icon-wrap">
                     <svg
                       className="w-4 h-4 transform transition-transform duration-200"
@@ -186,7 +186,7 @@ export default function Home() {
                   </span>
                 </div>
                 <div className="bot text-sm text-gray-500 dark:text-gray-400">
-                  Designer & Content creator
+                  Full Stack Developer
                 </div>
               </div>
             </div>
@@ -200,8 +200,7 @@ export default function Home() {
           {/* Toggle content */}
           <div className="details text-[15px] leading-[27px] text-gray-700 dark:text-gray-300 max-h-0 overflow-hidden transition-all duration-300">
             <p>
-              Devlands is a personal brand project designed as a social learning platform,
-              offering tutorials and coding challenges to support developers.
+              FPT SOFT FULLSTACK
             </p>
           </div>
         </div>
@@ -276,7 +275,7 @@ export default function Home() {
               {/* Content */}
               <div className="right">
                 <div className="top font-semibold text-[17px] flex items-center gap-1">
-                  FPT Polytechnic
+                  FPT University
                   <span className="icon-wrap">
                     <svg
                       className="w-4 h-4 transform transition-transform duration-200"
