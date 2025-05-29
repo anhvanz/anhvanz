@@ -15,8 +15,8 @@ import Footer from '../../components/Footer'
 import ImageZoomClient from '../../components/ImageZoomClient'
 
 export const metadata = {
-  title: 'Tran Huu Dang',
-  description: 'Personal portfolio of Tran Huu Dang',
+  title: 'Anh Vanz',
+  description: 'Personal portfolio of Van Anh',
 }
 
 export function generateStaticParams() {
