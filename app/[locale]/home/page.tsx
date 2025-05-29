@@ -87,7 +87,7 @@ export default function Home() {
         <div className="flex flex-col gap-2">
           <div className="mt-4 mb-4 space-y-2">
             <div className="flex gap-2">
-              <a href="https://github.com/dangtranhuu" target="_blank">
+              <a href="https://github.com/anhvanz" target="_blank">
                 <button className="bg-[var(--contact-bc)] dark:bg-[var(--contact-bc-dark)] text-[var(--contact-bc-dark)] dark:text-[var(--contact-bc)] px-3 py-1 rounded text-[18px] flex items-center gap-2">
                   <FiGithub />
                 </button>
