@@ -146,7 +146,7 @@ export default function Home() {
           <li className='flex'>Others: <span className='mr-[10px]'></span>{renderSkillIcons(otherSkills)}</li>
         </ul> */}
         <p>
-          Feel free to connect with me on [LinkedIn](#) to talk about work opportunities, or check out my [GitHub](#) for shared knowledge and side projects. Let's build something cool together! 😄
+          Feel free to connect with me on [LinkedIn](#) to talk about work opportunities, or check out my [GitHub](#) for shared knowledge and side projects. Let&apos;s build something cool together! 😄
         </p>
         <div style={{ display: 'flex', alignItems: 'center', flexWrap: 'wrap', gap: '0.5rem', }}>
           <span style={{ flexBasis: '100%' }}>My skills:</span>
