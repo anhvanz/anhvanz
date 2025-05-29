@@ -132,11 +132,12 @@ export default function Home() {
       {/* About */}
       <div className={`fade-in-load scroll-fade ${isAboutVisible ? 'visible' : ''} space-y-4 mb-12`}>
         <p>
-          I'm Anh Vanz — a fullstack developer with a strong focus on JavaScript and TypeScript.
-        </p>
-        <p>
-          I’m passionate about building web applications that are not only functional but also intuitive and user-friendly. I’ve led and contributed to several real-world projects such as **DESTINY**, **DAVITICKETS**, and **DAVISY** — handling everything from frontend UX to backend architecture.
-        </p>
+  I&apos;m Anh Vanz — a fullstack developer with a strong focus on JavaScript and TypeScript.
+</p>
+<p>
+  I have a passion for building web applications that are not only functional but also intuitive and user-friendly. I enjoy turning ideas into seamless digital experiences, from frontend design to backend logic.
+</p>
+
         {/* <ul>
           <li className='flex'>BackEnd: <span className='mr-[10px]'></span> {renderSkillIcons(backendSkills)}</li>
           <li className='flex'>FrontEnd:<span className='mr-[10px]'></span> {renderSkillIcons(frontendSkills)}</li>
