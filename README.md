@@ -2,6 +2,32 @@
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Software Engineer** dedicated to building modern, efficient, and scalable web applications.
 
+[![anhvanz](https://profilyze.vercel.app/api/banner?u=anhvanz&c=dY89T4RAEIb_inltJ4Q9PgLTXUEuNBQWNsZij1sOlFsuLCJI-O9mF89Eo1PMJJPMPM-7YAQLwptRPRhS16PUHyAcz-AFr40-gXHtlVEDCFpeFBhn2cppzmZlQKgmcOQTqhkcpl66EmpwFO-8iHBqLmCf0LuuWgN-WtDYp-4XYQIHUUyw14G7MeA4JAzz1bIGNVmyG4y9rh83warTdtHoQfUgvIMT3yeUXdvZJPeVKxAs0yeYGixW-oL3XXuDJ7G34SMROvjuX3h-lxWHvMiyh7w4_OkQ_3BIAnWsxM3BE78tBlXWm4UQIrXZrUbsLETof2s0ZadB22BIfpGjxPq8fgI)](https://profilyze.vercel.app/?u=anhvanz&c=dY89T4RAEIb_inltJ4Q9PgLTXUEuNBQWNsZij1sOlFsuLCJI-O9mF89Eo1PMJJPMPM-7YAQLwptRPRhS16PUHyAcz-AFr40-gXHtlVEDCFpeFBhn2cppzmZlQKgmcOQTqhkcpl66EmpwFO-8iHBqLmCf0LuuWgN-WtDYp-4XYQIHUUyw14G7MeA4JAzz1bIGNVmyG4y9rh83warTdtHoQfUgvIMT3yeUXdvZJPeVKxAs0yeYGixW-oL3XXuDJ7G34SMROvjuX3h-lxWHvMiyh7w4_OkQ_3BIAnWsxM3BE78tBlXWm4UQIrXZrUbsLETof2s0ZadB22BIfpGjxPq8fgI)
+
+### GitHub activity
+
+<p align="center">
+  <img src="https://profilyze.vercel.app/api/github/streak?user=anhvanz&theme=github-dark" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://profilyze.vercel.app/api/github/graph?user=anhvanz&theme=github-dark" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://profilyze.vercel.app/api/github/stats?user=anhvanz&theme=github-dark" alt="GitHub stats" height="180" />
+  <img src="https://profilyze.vercel.app/api/github/languages?user=anhvanz&theme=github-dark" alt="Top languages" height="180" />
+</p>
+
+### Connect with me
+
+<p align="center">
+  <a href="https://dangth.dev"><img src="https://img.shields.io/badge/Website-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+</p>
+
+<sub>Made with [Profilyze](https://profilyze.vercel.app)</sub>
+
+
 ---
 
 ### 🚀 About Me
